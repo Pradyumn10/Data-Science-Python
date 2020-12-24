@@ -1,2 +1,4 @@
-# Python-Files
-All the python files i have created are in stored in this repository.
+# Python Machine Learning Files
+It contains machine learning scripts created using SKlearn Library and Turicreate library. 
+Each folder contains the script and dataset.
+Pradyumn Joshi
