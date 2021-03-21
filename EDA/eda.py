@@ -1,3 +1,11 @@
+'''
+* @FileName : eda.py
+* @Author : Pradyumn Joshi
+* @Brief : Doing exploratory data analysis
+* @Date : 24 Jan 2021
+*
+* Copyright (C) 2021
+'''
 #%%
 #Doing exploratory data analysis on data
 #importing modules
