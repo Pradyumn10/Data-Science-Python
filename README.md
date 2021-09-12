@@ -1,3 +1,9 @@
 # Data Science - Python Files
-<p>It contains all the data science practice file. There are 3 forlders currently named as EDA (Exploratory Data Analysis), ML (Machine Learning) and DL (Deep Learning) <p>
+<p>It contains all the data science practice file. There are 3 forlders currently named as 
+  <ul>
+    <li>EDA (Exploratory Data Analysis),</li>
+    <li>ML (Machine Learning),</li>
+    <li>DL (Deep Learning) </li>
+  </ul>
+</p>
 <h3>Pradyumn Joshi</h3>
